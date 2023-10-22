@@ -1,0 +1,9 @@
+{
+	"name": "VisualStudioCredADF",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cb2be05f-2bc9-4054-84ab-ecb9e89278d4",
+		"tenantId": "76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61"
+	}
+}
